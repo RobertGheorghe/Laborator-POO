@@ -1,0 +1,9 @@
+﻿  4.cpp
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(48,1): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(48,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(60,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(178,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(186,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(207,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\Laborator-POO\lab4\4\4.cpp(215,31): warning C4018: '<': signed/unsigned mismatch
+  4.vcxproj -> C:\Users\rober\Desktop\Laborator-POO\lab4\4\Debug\4.exe
