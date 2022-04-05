@@ -1,0 +1,4 @@
+﻿  3.cpp
+C:\Users\rober\Desktop\fmi\Laborator-POO\lab6\3\3\3\3.cpp(67,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\rober\Desktop\fmi\Laborator-POO\lab6\3\3\3\3.cpp(89,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  3.vcxproj -> C:\Users\rober\Desktop\fmi\Laborator-POO\lab6\3\3\Debug\3.exe
