@@ -1,0 +1,6 @@
+﻿  3.cpp
+C:\Users\rober\Desktop\3\3\3.cpp(186,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\3\3\3.cpp(251,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\3\3\3.cpp(252,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\3\3\3.cpp(300,27): warning C4018: '<': signed/unsigned mismatch
+  3.vcxproj -> C:\Users\rober\Desktop\3\Debug\3.exe

@@ -1,0 +1,9 @@
+﻿  2.cpp
+C:\Users\rober\Desktop\2\2\2.cpp(23,14): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\rober\Desktop\2\2\2.cpp(30,23): warning C4101: 'x': unreferenced local variable
+C:\Users\rober\Desktop\2\2\2.cpp(42,13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\rober\Desktop\2\2\2.cpp(49,23): warning C4101: 'x': unreferenced local variable
+C:\Users\rober\Desktop\2\2\2.cpp(61,19): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\rober\Desktop\2\2\2.cpp(68,23): warning C4101: 'x': unreferenced local variable
+C:\Users\rober\Desktop\2\2\2.cpp(91,16): warning C4101: 'x': unreferenced local variable
+  2.vcxproj -> C:\Users\rober\Desktop\2\Debug\2.exe
