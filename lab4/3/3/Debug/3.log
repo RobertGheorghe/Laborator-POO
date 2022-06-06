@@ -1,7 +1,5 @@
 ﻿  3.cpp
-C:\Users\rober\Desktop\Laborator-POO\lab4\3\3\3.cpp(75,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\rober\Desktop\Laborator-POO\lab4\3\3\3.cpp(76,31): warning C4018: '<': signed/unsigned mismatch
-C:\Users\rober\Desktop\Laborator-POO\lab4\3\3\3.cpp(77,35): warning C4018: '<': signed/unsigned mismatch
-C:\Users\rober\Desktop\Laborator-POO\lab4\3\3\3.cpp(93,18): warning C4018: '<': signed/unsigned mismatch
-C:\Users\rober\Desktop\Laborator-POO\lab4\3\3\3.cpp(94,24): warning C4018: '<': signed/unsigned mismatch
-  3.vcxproj -> C:\Users\rober\Desktop\Laborator-POO\lab4\3\Debug\3.exe
+C:\Users\rober\Desktop\fmi\Laborator-POO\lab4\3\3\3.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\fmi\Laborator-POO\lab4\3\3\3.cpp(77,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rober\Desktop\fmi\Laborator-POO\lab4\3\3\3.cpp(78,35): warning C4018: '<': signed/unsigned mismatch
+  3.vcxproj -> C:\Users\rober\Desktop\fmi\Laborator-POO\lab4\3\Debug\3.exe
